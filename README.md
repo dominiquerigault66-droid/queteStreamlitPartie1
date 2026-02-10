@@ -1,4 +1,4 @@
-# queteStreamlitPartie1
+Schéma du projet
 queteStreamlitPartie1/
 │
 ├── app.py
